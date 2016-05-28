@@ -25,8 +25,8 @@
           "productId": 10290
         },
         {
-          "vendorId": 3034,
-          "productId": 10296
+          "vendorId": 0x0bda,
+          "productId": 0x2832
         }
       ]
     }
